@@ -1,0 +1,8 @@
+{
+    "intelephense.environment.phpVersion": "7.4.0",
+    "intelephense.files.maxSize": 5000000,
+    "intelephense.diagnostics.undefinedTypes": true,
+    "intelephense.diagnostics.undefinedSymbols": true,
+    "intelephense.diagnostics.undefinedFunctions": true,
+    "intelephense.diagnostics.undefinedMethods": true
+}
